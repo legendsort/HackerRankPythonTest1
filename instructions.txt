@@ -1,0 +1,9 @@
+Write a Python program which reads YAML files and prints out a CSV-formatted report.
+The report must show which student got the highest score for each assignment embedded in the YAML file.
+`data1.yml` is an example of such a YAML file.
+
+Assignment records may be found at any level of nesting and are identified by a key that starts with "assignment".
+`sample_output.csv` shows a partial output with the result of just the first assignment present in `data1.yml`.
+
+Your program's output, when run on `data1.yml`, should start with the first two lines in `sample_output.csv`
+and must have 5 lines in total, spanning the 4 assignments present in `data1.yml`.

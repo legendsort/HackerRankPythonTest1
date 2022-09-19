@@ -1,0 +1,5 @@
+assignment_id,highest_grade
+"data1.yml/lecture1/assignment1",bob
+"data1.yml/lecture2/before_lunch_break/assignment2",alice
+"data1.yml/lecture2/after_lunch_break/assignment3",charlie
+"data1.yml/assignment4",david

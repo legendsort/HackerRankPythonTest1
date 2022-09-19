@@ -1,0 +1,25 @@
+lecture1:
+	assignment1:
+		alice: 88
+		bob: 92
+		charlie: 80
+lecture2:
+	before_lunch_break:
+		assignment2:
+			alice: 98
+			bob: 97
+			charlie: 96
+			david: 85
+	after_lunch_break:
+		assignment3:
+			alice: 90
+			charlie: 100
+			david: 85.4
+assignment4:
+	alice: 89
+	bob: 93
+	david: 100
+	
+
+
+
